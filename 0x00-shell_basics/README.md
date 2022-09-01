@@ -1,2 +1,2 @@
 #!/bin/bash
-lists contents of current directory
+changing working directory to user root directory
