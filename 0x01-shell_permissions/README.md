@@ -1,2 +1,2 @@
 #!/bin/bash
-changing group ownership
+adding execute permission to owner of file hello
