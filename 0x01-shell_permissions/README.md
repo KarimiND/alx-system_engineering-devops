@@ -1,2 +1,2 @@
 #!/bin/bash
-multiple permissions
+everybody
