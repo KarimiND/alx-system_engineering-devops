@@ -1,2 +1,2 @@
 #!/bin/bash
-changing file ownership
+creating empty file
