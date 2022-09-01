@@ -1,2 +1,2 @@
 #!/bin/bash
-prints all the groups
+changing file ownership
