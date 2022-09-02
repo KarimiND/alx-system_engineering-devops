@@ -1,2 +1,2 @@
 #!/bin/bash
-James Bond
+directories permissions
