@@ -1,2 +1,2 @@
 #!/bin/bash
-directories permissions
+directory permissions
