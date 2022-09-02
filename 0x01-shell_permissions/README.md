@@ -1,2 +1,2 @@
 #!/bin/bash
-mirror permissions
+add execute all
