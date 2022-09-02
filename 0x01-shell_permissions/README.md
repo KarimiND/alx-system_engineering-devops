@@ -1,2 +1,2 @@
 #!/bin/bash
-add execute all
+directories permissions
