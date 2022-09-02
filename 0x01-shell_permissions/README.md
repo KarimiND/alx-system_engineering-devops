@@ -1,2 +1,2 @@
 #!/bin/bash
-directory permissions
+mirror permissions
