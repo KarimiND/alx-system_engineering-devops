@@ -1,2 +1,2 @@
 #!/bin/bash
-listing content long format
+list even hidden files
