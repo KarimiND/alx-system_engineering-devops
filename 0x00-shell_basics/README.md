@@ -1,2 +1,2 @@
 #!/bin/bash
-list even hidden files
+list files in digits
